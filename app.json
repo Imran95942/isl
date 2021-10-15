@@ -2,7 +2,7 @@
   "name": "isl",
   "description": "A Telegram word-based game bot.",
   "keywords": ["telegram", "python"],
-  "repository": "https://github.com/Imran95942/isl/tree/main",
+  "repository": "https://github.com/Imran95942/isl",
   "env": {
     "BOT_TOKEN": {
       "description": "A bot token from @BotFather.",
