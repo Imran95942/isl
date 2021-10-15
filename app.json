@@ -1,0 +1,16 @@
+{
+  "name": "isl",
+  "description": "A Telegram word-based game bot.",
+  "keywords": ["telegram", "python"],
+  "repository": "https://github.com/PatheticProgrammers/CrocodileGame",
+  "env": {
+    "BOT_TOKEN": {
+      "description": "A bot token from @BotFather.",
+      "required": true
+    },
+    "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}
